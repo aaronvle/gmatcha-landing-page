@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Menu } from "lucide-react";
@@ -57,9 +56,7 @@ const Navbar = () => {
           >
             Testimonials
           </a>
-          <Button className="bg-matcha-500 hover:bg-matcha-600 text-white">
-            Get Started
-          </Button>
+          <a className="bg-matcha-500 hover:bg-matcha-600 text-white px-4 py-2 rounded-md" href="#pricing">Get Started</a>
         </nav>
 
         {/* Mobile Menu Button */}
