@@ -43,19 +43,15 @@ const Footer = () => {
           <div>
             <h4 className="text-md font-semibold mb-4">Product</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Features</a></li>
+              <li><a href="#features" className="text-gray-600 hover:text-matcha-600 transition-colors">Features</a></li>
               <li><a href="#pricing" className="text-gray-600 hover:text-matcha-600 transition-colors">Pricing</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Integrations</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Roadmap</a></li>
             </ul>
           </div>
           <div>
-            <h4 className="text-md font-semibold mb-4">Resources</h4>
+            <h4 className="text-md font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Blog</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Documentation</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Guides</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Support Center</a></li>
+              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Support</a></li>
+              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Socials</a></li>
             </ul>
           </div>
           <div>
@@ -63,8 +59,6 @@ const Footer = () => {
             <ul className="space-y-3">
               <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">About</a></li>
               <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Careers</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Press</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-matcha-600 transition-colors">Contact</a></li>
             </ul>
           </div>
         </div>
