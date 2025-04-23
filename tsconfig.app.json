@@ -13,6 +13,7 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
+    "types": ["react/experimental", "react-dom/experimental"],
 
     /* Linting */
     "strict": false,
